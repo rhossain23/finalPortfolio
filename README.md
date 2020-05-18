@@ -9,7 +9,7 @@ Deployed path: https://rhossain23.github.io/worldCupCountries/
 GIF: link goes here
 
 Artifact of design process: 
-![]exploratorySketch.png
+![](exploratorySketch.png)
 
 # Narrative Project
 
@@ -20,6 +20,6 @@ Deployed path: https://rhossain23.github.io/worldCupCountries/
 GIF: link goes here
 
 Artifact of design process: 
-![]narrativeSketch.png
+![](narrativeSketch.png)
 
 # Reflection

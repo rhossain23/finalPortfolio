@@ -9,8 +9,6 @@ This project was concerned with visualizing all of the countries in which player
 #### [Deployed path](https://rhossain23.github.io/worldCupCountries/)
 
 #### Screenshots from the project:
-![](exploratoryScreenshot1.png)
-![](exploratoryScreenshot2.png)
 
 #### Data: 
 

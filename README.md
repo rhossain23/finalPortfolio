@@ -1,5 +1,11 @@
 # Final Portfolio
 
+[Exploratory Project](#exploratory-project)
+
+[Narrative Project](#narrative-project)
+
+[Reflection](#reflection)
+
 ## Exploratory Project
 
 #### Abstract: 
